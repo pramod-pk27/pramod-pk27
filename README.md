@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Preparing For Placement.<br>🔗How to reach me: www.linkedin.com/in/pramod-yesikar-70a77b1ba<br>🌱 I’m currently learning C++,Java.<br>💬 Ask me about Good First Issues & Exciting project to work on.<br>⚡ Fun fact: Captain  Cricket Team
+🔭 I’m currently Preparing For Placement.<br>🔗How to reach me: www.linkedin.com/in/pramod-yesikar-70a77b1ba<br>🌱 I’m currently learning C++,html,css,java core.<br>💬 Ask me about Good First Issues & Exciting project to work on.<br>⚡ Fun fact: Captain  Cricket Team
 
 
 ## 🌐 Socials:
